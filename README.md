@@ -1,5 +1,11 @@
 # FiveM-Firewall-Rule-Setter
 
-.bat For windows
+FiveM Firewall.bat For windows
 
-.sh For Linux
+FiveM Firewall.sh For Linux
+
+**Instructions** 
+
+*Windows:* Download .bat File and run
+
+*Linux:* Download .sh file run "chmod +x FiveM Firewall.sh" then run "./FiveM Firewall.sh"  
